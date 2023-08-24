@@ -4,20 +4,19 @@ Welcome to the TinDog project! 🎉 In this repository, you'll find the HTML and
 
 ### Table of Contents 📚
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Testimonials](#testimonials)
-4. [Press](#press)
-5. [Pricing](#pricing)
-6. [Call to Action](#call-to-action)
-7. [Footer](#footer)
-8. [Getting Started](#getting-started)
-9. [Dependencies](#dependencies)
-10. [Author](#author)
+1. [Introduction](###introduction)
+2. [Features](####features)
+3. [Testimonials](####testimonials)
+5. [Pricing](###pricing)
+6. [Call to Action](###call-to-action)
+7. [Footer](###footer)
+8. [Getting Started](###getting-started)
+9. [Dependencies](###dependencies)
+10. [Author](###author)
 
 ### Introduction 👋
 
-Welcome to the world of TinDog, where dogs can connect and find their paw-fect partners nearby! The website is built with HTML and styled using CSS. Let's take a look at what's inside.
+Welcome to the world of TinDog, where dogs can connect and find their paw-fact partners nearby! The website is built with HTML and styled using CSS. Let's take a look at what's inside.
 
 ### Features 🐕
 
