@@ -63,8 +63,8 @@ TinDog offers plans for every dog's needs:
 
 Ready to find your dog's true love? Get started now:
 
-- Download for iOS ![Download on the App Store](images/apple-download.png)
-- Download for Android ![Get it on Google Play](images/google-play-download.png)
+- Download for iOS![Download on the App Store](images/apple-download.png)
+- Download for Android![Get it on Google Play](images/google-play-download.png)
 
 ### Footer 🦴
 
@@ -81,7 +81,7 @@ Connect with us:
 
 ### Getting Started 🚀
 
-To run the website locally, simply open the `index.html` file in a web browser.
+To run the website locally, open the `index.html` file in a web browser.
 
 ### Dependencies 📦
 
@@ -93,7 +93,11 @@ This project utilizes the following:
 
 ### Author 🧑‍💻
 
-This TinDog website was created by [Muhammad Usman]. Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-usman-a04a71195/) for more information.
+Muhammad Usman created this TinDog website. Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-usman-a04a71195/) for more information.
+
+### Note 📝
+
+Please remember that this project is just a template and can be customized to fit your own unique ideas and designs.
 
 ---
 
